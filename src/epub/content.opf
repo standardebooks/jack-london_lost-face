@@ -30,15 +30,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			<p>
 				The first anthology of short stories by Jack London, <em>Lost Face</em> tells seven stories about the Klondike gold rush:
-				<ul>
-					<li>In <em>Lost Face</em>, the fur thief Subienkow faces gruesome torture and execution by a tribe of Indians, armed with only his wits.</li>
-					<li><em>Trust</em> is a story about the dangers of the Yukon River.</li>
-					<li>Jack London's best known short story, <em>To Build a Fire</em>, tells the story of a nameless man and his dog attempting to survive in the frozen Northern Territory</li>
-					<li>In <em>That Spot</em>, the eponymous Spot is a very unusual Yukon sled dog.</li>
-					<li><em>Flush of Gold</em> is a love story by Jack London, set against the harsh backdrop of the Yukon.</li>
-					<li><em>The Passing of Marcus O'Brien</em>deals the tale of the fair-but-tought titular Judge Marcus o'Brien in the settlement of Red Cow.</li>
-					<li><em>The Wit of Porportuk</em> tells the tale of El-Soo and Porportuk, two Indians among the white settlers.</li>
-				</ul>
+				<ul><li>In <em>Lost Face</em>, the fur thief Subienkow faces gruesome torture and execution by a tribe of Indians, armed with only his wits.</li><li><em>Trust</em> is a story about the dangers of the Yukon River.</li><li>Jack London's best known short story, <em>To Build a Fire</em>, tells the story of a nameless man and his dog attempting to survive in the frozen Northern Territory</li><li>In <em>That Spot</em>, the eponymous Spot is a very unusual Yukon sled dog.</li><li><em>Flush of Gold</em> is a love story by Jack London, set against the harsh backdrop of the Yukon.</li><li><em>The Passing of Marcus O'Brien</em>deals the tale of the fair-but-tought titular Judge Marcus o'Brien in the settlement of Red Cow.</li><li><em>The Wit of Porportuk</em> tells the tale of El-Soo and Porportuk, two Indians among the white settlers.</li></ul>
 			</p>
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
