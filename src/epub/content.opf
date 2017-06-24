@@ -18,48 +18,47 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Lost Face</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="file-as" refines="#title">Lost Face</meta>
+		<dc:subject id="subject-1">	Western stories</dc:subject>
+		<dc:subject id="subject-2">American fiction -- 20th century</dc:subject>
+		<dc:subject id="subject-2">	Adventure stories, American</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.loc.gov/pictures/item/2009633505/</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.loc.gov/pictures/item/2009633505/</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The first anthology of short stories by Jack London.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			<p>
+				The first anthology of short stories by Jack London, <em>Lost Face</em> tells seven stories about the Klondike gold rush:
+				<ul>
+					<li>In <em>Lost Face</em>, the fur thief Subienkow faces gruesome torture and execution by a tribe of Indians, armed with only his wits.</li>
+					<li><em>Trust</em> is a story about the dangers of the Yukon River.</li>
+					<li>Jack London's best known short story, <em>To Build a Fire</em>, tells the story of a nameless man and his dog attempting to survive in the frozen Northern Territory</li>
+					<li>In <em>That Spot</em>, the eponymous Spot is a very unusual Yukon sled dog.</li>
+					<li><em>Flush of Gold</em> is a love story by Jack London, set against the harsh backdrop of the Yukon.</li>
+					<li><em>The Passing of Marcus O'Brien</em>deals the tale of the fair-but-tought titular Judge Marcus o'Brien in the settlement of Red Cow.</li>
+					<li><em>The Wit of Porportuk</em> tells the tale of El-Soo and Porportuk, two Indians among the white settlers.</li>
+				</ul>
+			</p>
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en-US</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/2429</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lost_Face</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_lost-face</meta>
 		<dc:creator id="author">Jack London</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">London, Jack</meta>
+		<meta property="se:name.person.full-name" refines="#author">John Griffith London</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jack_London</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78086415.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Sami Siddiqui</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Siddiqui, Sami</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -75,13 +74,27 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/flush-of-gold.xhtml" id="flush-of-gold.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lost-face.xhtml" id="lost-face.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/that-spot.xhtml" id="that-spot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-passing-of-marcus-obrien.xhtml" id="the-passing-of-marcus-obrien.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wit-of-porportuk.xhtml" id="the-wit-of-porportuk.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/to-build-a-fire.xhtml" id="to-build-a-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/trust.xhtml" id="trust.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="flush-of-gold.xhtml"/>
+		<itemref idref="lost-face.xhtml"/>
+		<itemref idref="that-spot.xhtml"/>
+		<itemref idref="the-passing-of-marcus-obrien.xhtml"/>
+		<itemref idref="the-wit-of-porportuk.xhtml"/>
+		<itemref idref="to-build-a-fire.xhtml"/>
+		<itemref idref="trust.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
