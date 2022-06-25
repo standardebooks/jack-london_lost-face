@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">sh85001073</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short stories by Jack London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The first anthology of short stories by &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London&lt;/a&gt;, &lt;i&gt;Lost Face&lt;/i&gt; tells seven stories about the Klondike gold rush. In “Lost Face,” the fur thief Subienkow faces gruesome torture and execution by a tribe of Indians, armed with only his wits. “Trust” is a story about the dangers of the Yukon River. Jack London’s best known short story, “To Build a Fire,” tells the story of a nameless man and his dog attempting to survive in the frozen Northern Territory. In “That Spot,” the eponymous Spot is a very unusual Yukon sled dog. “Flush of Gold” is a love story set against the harsh backdrop of the Yukon. “The Passing of Marcus O’Brien” deals the tale of the fair-but-tough Judge Marcus O’Brien in the settlement of Red Cow. “The Wit of Porportuk” tells the tale of El-Soo and Porportuk, two Indians among the white settlers.&lt;/p&gt;
