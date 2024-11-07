@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2429</dc:source>
 		<dc:source>https://books.google.com/books?id=YGYZAAAAYAAJ</dc:source>
-		<meta property="se:word-count">41549</meta>
+		<meta property="se:word-count">41550</meta>
 		<meta property="se:reading-ease.flesch">82.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lost_Face</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_lost-face</meta>
