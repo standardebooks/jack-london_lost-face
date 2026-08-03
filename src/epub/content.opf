@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jack-london/lost-face</dc:identifier>
 		<dc:date>2017-07-01T19:42:14Z</dc:date>
@@ -42,10 +42,10 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short stories by Jack London.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short stories by Jack London.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The first anthology of short stories by &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London&lt;/a&gt;, &lt;i&gt;Lost Face&lt;/i&gt; tells seven stories about the Klondike gold rush. In “Lost Face,” the fur thief Subienkow faces gruesome torture and execution by a tribe of Indians, armed with only his wits. “Trust” is a story about the dangers of the Yukon River. Jack London’s best known short story, “To Build a Fire,” tells the story of a nameless man and his dog attempting to survive in the frozen Northern Territory. In “That Spot,” the eponymous Spot is a very unusual Yukon sled dog. “Flush of Gold” is a love story set against the harsh backdrop of the Yukon. “The Passing of Marcus O’Brien” deals the tale of the fair-but-tough Judge Marcus O’Brien in the settlement of Red Cow. “The Wit of Porportuk” tells the tale of El-Soo and Porportuk, two Indians among the white settlers.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2429</dc:source>
 		<dc:source>https://books.google.com/books?id=YGYZAAAAYAAJ</dc:source>
